@@ -8,8 +8,6 @@ A synopsis: [SAM](https://github.com/gibbed/SteamAchievementManager) is cool, bu
 And these are the two things I wanted to fix.
 
 # How to use
-
-### Method A: Use Go to run it
 You'll need
 - An internet connection
 - A web browser
@@ -26,9 +24,6 @@ And you're done. For any other information, run
 ```bash
 go run main.go --help
 ```
-
-### Method B: Pre-built binaries
-This section is a WIP
 
 # Attribution
 - https://github.com/ebitengine/purego - Used for using the SteamAPI's exported functions - Licensed under the [Apache Version 2.0 License](https://github.com/ebitengine/purego/blob/main/LICENSE)
